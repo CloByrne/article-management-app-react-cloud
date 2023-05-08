@@ -1,0 +1,116 @@
+.articles-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.articles-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.article-container {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.article-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.article-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.article-delete-btn {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+}
+
+.article-delete-btn:hover {
+  background-color: #ad3131;
+}
+
+.article-body {
+  margin: 10px 0;
+}
+
+.article-expand-btn {
+  background-color: #0565cc;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.article-expand-btn:hover {
+  background-color: #005879;
+}
+
+.article-add-btn {
+  margin-left: 10px;
+  font-style: normal;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #070000;
+  background-color: #71f8c4;
+  border: 1.5px solid #1e929b;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+}
+
+.article-add-btn:hover {
+  background-color: #1e929b;
+  color: #fff;
+}
+
+.article-meta {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.published-state {
+  margin-right: 1rem;
+}
+
+.article-edit-btn {
+  background-color: #35dcc0;
+  border: 2px solid #1e9b71;
+  font-style: normal;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.article-edit-btn:hover {
+  background-color: #1e9b71;
+}

@@ -1,0 +1,15 @@
+{
+    "articles": [
+      {
+        "title": "Lorem ipsum dolor sit amet",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non tellus eu magna eleifend lacinia ac quis tortor. Fusce in urna at purus egestas convallis. Integer ultricies dolor a leo vulputate vestibulum. Suspendisse potenti. Nullam pharetra gravida sapien quis auctor. Sed auctor metus quis orci molestie, vel feugiat lorem volutpat. Mauris ut varius tellus, nec pellentesque justo. Proin rutrum lorem sed nulla hendrerit, ut rhoncus turpis tincidunt. Pellentesque suscipit vel lorem non dignissim. Nullam ullamcorper orci eu sem venenatis, ut tincidunt nisi tristique. Sed nec ultrices dolor, vitae sollicitudin nibh. Donec quis lobortis enim. Praesent porta lectus in odio consequat hendrerit. ",
+        "published": true
+      },
+      {
+        "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "published": true
+      }
+    ]
+  }
+  
